@@ -18,7 +18,7 @@ const Layout = ({ children, site, seo }) => {
                 </Link>
               </h1>
               <div className="Header__summary snipcart-summary snipcart-checkout">
-                <div className="Header__summary__title">🛍MON PANIER🛍</div>
+                <div className="Header__summary__title">🛒 MON PANIER 🛒</div>
                 <div className="Header__summary__line">
                   Nombre de produits:{' '}
                   <span className="snipcart-total-items"></span>
