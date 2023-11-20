@@ -4,7 +4,7 @@
   border-bottom: 3px solid white;
   box-shadow: 0 16px 0 black;
   transform: rotateZ(8deg) skew(-2deg, -10deg) translateY(-10%);
-  margin: 50px;
+  margin: 80px;
 }
 
 .Header__body {
@@ -15,7 +15,7 @@
 .Header__title {
   flex: 1;
   padding: 10px 0;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
   font-style: italic;
 
   a {
