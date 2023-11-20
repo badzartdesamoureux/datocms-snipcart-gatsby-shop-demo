@@ -20,7 +20,7 @@ const Layout = ({ children, site, seo }) => {
               <div className="Header__summary snipcart-summary snipcart-checkout">
                 <div className="Header__summary__title">🛍 MON PANIER 🛍</div>
                 <div className="Header__summary__line">
-                  Nombre de roduits:{' '}
+                  Nombre de produits:{' '}
                   <span className="snipcart-total-items"></span>
                 </div>
                 <div className="Header__summary__line">
